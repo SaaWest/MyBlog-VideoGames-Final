@@ -1,24 +1,25 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: My Third Article
+title:  Innovation 
 date: 17 July 2022
-image: /Bob-blog/images/my-third-article/cardimage.jpg
+image: /Bob-blog/images/my-third-article/Console.jpg
 tags:
-  - third
-  - featured
+  - Innovation
+  - Recycle
 ---
 
-```javascript
-function foo(bar) {
-  return bar % 2 === 0;
-}
-```
 
-![Icon](https://i.ytimg.com/vi/7Tt6Yv9czz8/maxresdefault.jpg)
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque illo incidunt odit ex mollitia eligendi at eaque consequatur, sequi in repellat fuga qui itaque natus. Ducimus laboriosam, nihil nobis eum rerum facilis, quidem consequatur eligendi provident id in. Quae architecto rem repellendus nam, autem ullam facilis dolores veniam, impedit itaque similique deserunt dolorum eveniet nemo, dolore blanditiis assumenda laborum corporis ut! Fugiat earum molestias voluptatum! Quae recusandae qui inventore sapiente quod dolorum aspernatur ratione eveniet, similique modi dignissimos nihil ut.
 
-Aliquam, fugiat! Nisi saepe maiores neque minima, voluptatibus maxime, architecto debitis molestiae voluptatum eaque a tempore voluptates. Laboriosam, odit dolor. Explicabo facere exercitationem saepe nobis temporibus iure, repellendus atque rem quisquam hic reiciendis aliquid architecto, inventore repudiandae. Incidunt vero, rem obcaecati quam nesciunt distinctio minus voluptas perferendis alias error unde, repellat amet, pariatur nobis voluptatum iste quo. Debitis, ducimus! In nostrum, rerum quam explicabo quaerat cupiditate eos, distinctio officia tempora cumque, fuga consequuntur quas perferendis voluptates sit quos. Quod, tenetur.
+<!--![Icon](https://i.ytimg.com/vi/7Tt6Yv9czz8/maxresdefault.jpg)-->
 
-Repellendus alias accusamus reprehenderit quam, qui, quae dolorem nihil, repellat necessitatibus fugit assumenda. Iste, repellendus obcaecati aliquam molestias perspiciatis eligendi unde nisi eius, reiciendis est assumenda cupiditate similique totam consequuntur excepturi! Optio iste obcaecati accusantium autem neque voluptatibus illo adipisci hic, blanditiis facere ipsum alias molestiae pariatur modi mollitia deserunt sunt. Officia natus corporis incidunt quasi odit, fugiat odio exercitationem explicabo, dicta excepturi earum vitae deserunt est obcaecati expedita libero esse mollitia ipsam nobis inventore quis quae. Rerum, non iusto.
+> Take a chance, motherf**ers, and trust your gut!-Cliff Bleszinski 
 
-Sequi, sit. Aliquid, cumque adipisci? Provident nobis saepe quia voluptatibus consequuntur itaque deserunt fuga tempore expedita hic ipsum amet sequi, placeat soluta natus, pariatur explicabo, eligendi commodi? Recusandae reprehenderit quidem maiores explicabo exercitationem porro accusantium ipsum laudantium sapiente, repellendus omnis minima pariatur tempora iure non excepturi odit distinctio, totam eos, ut alias dolores hic esse nesciunt. Quia libero neque iure vel! Molestiae suscipit cupiditate illum a, sit labore corrupti non tenetur officiis voluptatum nulla, deleniti nam iure quo sed vel?
+Video game developers and Publishers are re-releasing old video games with a new paint job but this is not always the case. Konami as of 2023 released a port of their beloved Metal Gear Solid series called Metal Gear Solid: Master Collection Vol. 1 that contained games from the 1987 to 2004 Snake Eater. The release has recieved very little love by the community as the game adds no improvements either graphically or mechanically. Looking at Re-releases as a hole many publishers are releasing old IPs instead of investing in new IPs. Recently we have seen re-releases with the Resident Evil series, Halo with the Master Chief Edition, and the Final Fantasy series. Now to be fair Microsoft and Square Enix have worked on sequels to Halo and Final Fantasy with Halo Infinite and Final Fantasy 16 respectfully with the later recieving a lot of praise for it story and enivornment but the release of Halo Infinite was very rocky and has taken over a year to fix their multiplayer.   
+
+* Re-Released IPs
+    * Halo
+    * Resident Evil
+    * Metal Gear Solid
+    * Final Fantasy
+    * Spyro
+<img width="800" src="https://media3.giphy.com/media/ARb77MvJVd7Uc/giphy.gif?cid=ecf05e47auqe9ywysacx0igvzk1wep2fx63xlqydgh47nnrz&ep=v1_gifs_search&rid=giphy.gif&ct=g">

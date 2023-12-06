@@ -3,8 +3,9 @@ layout: "@layouts/ArticleLayout.astro"
 title: Pay To Win
 date: 10 December 2023
 tags:
-  - featured
   - Whaling
+  - featured
+  
 description: Bypass the mechanics of the game
 ---
 

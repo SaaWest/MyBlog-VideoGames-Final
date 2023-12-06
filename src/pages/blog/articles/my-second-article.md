@@ -4,7 +4,7 @@ title: Broken
 date: 10 December 2023
 image: /images/my-second-article/broken.jpg
 tags:
-  - second
+  - Day1
   - featured
 ---
 

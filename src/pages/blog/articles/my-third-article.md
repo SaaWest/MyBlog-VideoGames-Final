@@ -4,8 +4,7 @@ title: Innovation
 date: 10 Decemeber 2023
 image: /images/my-third-article/Console.jpg
 tags:
-  - Innovation
-  - Recycle
+  - featured
 ---
 
 >Take a chance, motherf**ers, and trust your gut!-Cliff Bleszinski 

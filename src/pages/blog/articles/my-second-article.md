@@ -1,8 +1,8 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
 title: Broken
-date: 14 July 2022
-image: /Bob-blog/images/my-second-article/broken.jpg
+date: 10 December 2023
+image: /images/my-second-article/broken.jpg
 tags:
   - second
   - featured

@@ -2,6 +2,7 @@
 layout: "@layouts/ArticleLayout.astro"
 title: Pay To Win
 date: 10 December 2023
+image: /images/my-first-article/whaling2.jpg
 tags:
   - Whaling
   - featured
@@ -11,7 +12,7 @@ description: Bypass the mechanics of the game
 
 # Pay To Win
 
-<img src = "https://pbs-prod.linustechtips.com/monthly_2022_07/397694888_LTTWHALELANWallpapers_LightMode.png.de7bcc0df128e3982b7aeb7e1c707f69.png" height ="200">
+<!--<img src = "https://pbs-prod.linustechtips.com/monthly_2022_07/397694888_LTTWHALELANWallpapers_LightMode.png.de7bcc0df128e3982b7aeb7e1c707f69.png" height ="200">-->
 
 > Pay to be a better gamer
 

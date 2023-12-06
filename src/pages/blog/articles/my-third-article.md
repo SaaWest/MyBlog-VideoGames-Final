@@ -4,7 +4,7 @@ title: Innovation
 date: 10 Decemeber 2023
 image: /images/my-third-article/Console.jpg
 tags:
-  - Take Chances
+  - TakeChances
   - featured
 ---
 
